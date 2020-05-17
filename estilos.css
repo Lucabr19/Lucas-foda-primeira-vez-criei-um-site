@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://1.bp.blogspot.com/-ucgd0_jGrEI/VijjmiQA8dI/AAAAAAAALGA/Len1P4w4suo/s1600/lua-azul.jpg");
+    background-size: auto 100vh;
+    font-family: arial black;
+    height:100vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  a {
+    color:#2979FF;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color:#B2EBF2;
+    text-align: center;
+  }
+  .site-subtitle {
+    font-style: italic;
+  }
+  
